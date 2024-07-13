@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/redmi-store-static-clone-/static/css/main.7a9b6a6c.css",
+    "main.js": "/redmi-store-static-clone-/static/js/main.15eda7b6.js",
+    "static/js/453.ed3810f9.chunk.js": "/redmi-store-static-clone-/static/js/453.ed3810f9.chunk.js",
+    "static/media/image4.webp": "/redmi-store-static-clone-/static/media/image4.b6875840202908743303.webp",
+    "static/media/image3.webp": "/redmi-store-static-clone-/static/media/image3.e7c9973e3349eefac5d6.webp",
+    "static/media/image1.webp": "/redmi-store-static-clone-/static/media/image1.2c24acc62980ee9f17c2.webp",
+    "static/media/image5.webp": "/redmi-store-static-clone-/static/media/image5.19b0f563d14c74a8af67.webp",
+    "static/media/image2.webp": "/redmi-store-static-clone-/static/media/image2.86a66a3ad24d5a254582.webp",
+    "static/media/cart4.jpg": "/redmi-store-static-clone-/static/media/cart4.3f76b7a5abb8507b69f7.jpg",
+    "static/media/nextimage 4.webp": "/redmi-store-static-clone-/static/media/nextimage 4.6e0fd4c033b62ffa9423.webp",
+    "static/media/nextimage8.webp": "/redmi-store-static-clone-/static/media/nextimage8.32f40311fe03168b253c.webp",
+    "static/media/nextimage3.webp": "/redmi-store-static-clone-/static/media/nextimage3.2d7da86d679457c03d82.webp",
+    "static/media/nextimage2.webp": "/redmi-store-static-clone-/static/media/nextimage2.47b5119aa403b120270d.webp",
+    "static/media/nextimage5.webp": "/redmi-store-static-clone-/static/media/nextimage5.67bfe4cdee7ef9211b10.webp",
+    "static/media/nextimage10.webp": "/redmi-store-static-clone-/static/media/nextimage10.f014019def149ce5d726.webp",
+    "static/media/nextimage7.webp": "/redmi-store-static-clone-/static/media/nextimage7.caa729d321a5a4a92cdc.webp",
+    "static/media/nextimage6.webp": "/redmi-store-static-clone-/static/media/nextimage6.b76505e639f0ae79eb31.webp",
+    "static/media/nextimage9.webp": "/redmi-store-static-clone-/static/media/nextimage9.0175095d16a2c998b960.webp",
+    "static/media/cart13.jpg": "/redmi-store-static-clone-/static/media/cart13.ddec10e7054c732b8258.jpg",
+    "static/media/cart1.jpg": "/redmi-store-static-clone-/static/media/cart1.69fb2bb5e3db78f3243f.jpg",
+    "static/media/nextimage1.webp": "/redmi-store-static-clone-/static/media/nextimage1.2973d1a1f1d05f1a7196.webp",
+    "index.html": "/redmi-store-static-clone-/index.html",
+    "main.7a9b6a6c.css.map": "/redmi-store-static-clone-/static/css/main.7a9b6a6c.css.map",
+    "main.15eda7b6.js.map": "/redmi-store-static-clone-/static/js/main.15eda7b6.js.map",
+    "453.ed3810f9.chunk.js.map": "/redmi-store-static-clone-/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a9b6a6c.css",
+    "static/js/main.15eda7b6.js"
+  ]
+}
